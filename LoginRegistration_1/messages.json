@@ -1,0 +1,39 @@
+[
+  {
+    "messageID": "10316ed8-b",
+    "recipient": "+2781234567",
+    "message": "Hello Bongani,unjani?"
+  ,
+  {
+    "messageID": "fe4d9f9c-4",
+    "recipient": "+2781234567",
+    "message": "im fine thanks how are u?"
+  ,
+{
+  "messageID": "0038700446",
+  "recipient": "+27727775478",
+  "messageText": "I am good how are you?",
+  "messageHash": "0002:IYOU?"
+}
+,
+{
+  "messageID": "0388105367",
+  "recipient": "+27797775739",
+  "messageText": "Hello Thubelihle,Unjani?",
+  "messageHash": "0301:HELLOTHUBELIHLE,UNJANI?"
+}
+,
+{
+  "messageID": "0611555193",
+  "recipient": "+27820850378",
+  "messageText": "i an okay and you?",
+  "messageHash": "0602:IYOU?"
+}
+,
+{
+  "messageID": "0172573458",
+  "recipient": "+278524544848",
+  "messageText": "I'm fine thanks",
+  "messageHash": "0102:I'MTHANKS"
+}
+]
